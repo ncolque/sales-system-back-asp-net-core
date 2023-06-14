@@ -1,0 +1,17 @@
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\bin\Debug\net6.0\SALES.Infrastructure.deps.json
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\bin\Debug\net6.0\SALES.Infrastructure.dll
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\bin\Debug\net6.0\SALES.Infrastructure.pdb
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\bin\Debug\net6.0\SALES.Domain.dll
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\bin\Debug\net6.0\SALES.Utilities.dll
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\bin\Debug\net6.0\SALES.Domain.pdb
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\bin\Debug\net6.0\SALES.Utilities.pdb
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\obj\Debug\net6.0\SALES.Infrastructure.csproj.AssemblyReference.cache
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\obj\Debug\net6.0\SALES.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\obj\Debug\net6.0\SALES.Infrastructure.AssemblyInfoInputs.cache
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\obj\Debug\net6.0\SALES.Infrastructure.AssemblyInfo.cs
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\obj\Debug\net6.0\SALES.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\obj\Debug\net6.0\SALES.Infrastructure.csproj.CopyComplete
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\obj\Debug\net6.0\SALES.Infrastructure.dll
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\obj\Debug\net6.0\refint\SALES.Infrastructure.dll
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\obj\Debug\net6.0\SALES.Infrastructure.pdb
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Infrastructure\obj\Debug\net6.0\ref\SALES.Infrastructure.dll

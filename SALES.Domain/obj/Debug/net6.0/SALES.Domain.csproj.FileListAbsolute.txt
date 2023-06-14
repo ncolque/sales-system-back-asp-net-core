@@ -1,0 +1,14 @@
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\bin\Debug\net6.0\SALES.Domain.deps.json
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\bin\Debug\net6.0\SALES.Domain.runtimeconfig.json
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\bin\Debug\net6.0\SALES.Domain.dll
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\bin\Debug\net6.0\SALES.Domain.pdb
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\obj\Debug\net6.0\SALES.Domain.csproj.AssemblyReference.cache
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\obj\Debug\net6.0\SALES.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\obj\Debug\net6.0\SALES.Domain.AssemblyInfoInputs.cache
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\obj\Debug\net6.0\SALES.Domain.AssemblyInfo.cs
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\obj\Debug\net6.0\SALES.Domain.csproj.CoreCompileInputs.cache
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\obj\Debug\net6.0\SALES.Domain.dll
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\obj\Debug\net6.0\refint\SALES.Domain.dll
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\obj\Debug\net6.0\SALES.Domain.pdb
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\obj\Debug\net6.0\SALES.Domain.genruntimeconfig.cache
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Domain\obj\Debug\net6.0\ref\SALES.Domain.dll

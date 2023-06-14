@@ -1,0 +1,12 @@
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\bin\Debug\net6.0\SALES.Utilities.deps.json
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\bin\Debug\net6.0\SALES.Utilities.dll
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\bin\Debug\net6.0\SALES.Utilities.pdb
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\obj\Debug\net6.0\SALES.Utilities.csproj.AssemblyReference.cache
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\obj\Debug\net6.0\SALES.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\obj\Debug\net6.0\SALES.Utilities.AssemblyInfoInputs.cache
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\obj\Debug\net6.0\SALES.Utilities.AssemblyInfo.cs
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\obj\Debug\net6.0\SALES.Utilities.csproj.CoreCompileInputs.cache
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\obj\Debug\net6.0\SALES.Utilities.dll
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\obj\Debug\net6.0\refint\SALES.Utilities.dll
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\obj\Debug\net6.0\SALES.Utilities.pdb
+D:\projects\net\SalesSystemBackASPNETCore\SALES.Utilities\obj\Debug\net6.0\ref\SALES.Utilities.dll
