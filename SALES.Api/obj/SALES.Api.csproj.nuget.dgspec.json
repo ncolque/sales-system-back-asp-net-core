@@ -1,0 +1,356 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Api\\SALES.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Api\\SALES.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Api\\SALES.Api.csproj",
+        "projectName": "SALES.Api",
+        "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Api\\SALES.Api.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Application\\SALES.Application.csproj": {
+                "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Application\\SALES.Application.csproj"
+              },
+              "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Infrastructure\\SALES.Infrastructure.csproj": {
+                "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Infrastructure\\SALES.Infrastructure.csproj"
+              },
+              "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Utilities\\SALES.Utilities.csproj": {
+                "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Utilities\\SALES.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Application\\SALES.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Application\\SALES.Application.csproj",
+        "projectName": "SALES.Application",
+        "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Application\\SALES.Application.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Domain\\SALES.Domain.csproj": {
+                "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Domain\\SALES.Domain.csproj"
+              },
+              "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Infrastructure\\SALES.Infrastructure.csproj": {
+                "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Infrastructure\\SALES.Infrastructure.csproj"
+              },
+              "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Utilities\\SALES.Utilities.csproj": {
+                "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Utilities\\SALES.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.16.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Domain\\SALES.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Domain\\SALES.Domain.csproj",
+        "projectName": "SALES.Domain",
+        "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Domain\\SALES.Domain.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Infrastructure\\SALES.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Infrastructure\\SALES.Infrastructure.csproj",
+        "projectName": "SALES.Infrastructure",
+        "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Infrastructure\\SALES.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Domain\\SALES.Domain.csproj": {
+                "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Domain\\SALES.Domain.csproj"
+              },
+              "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Utilities\\SALES.Utilities.csproj": {
+                "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Utilities\\SALES.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.24, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Utilities\\SALES.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Utilities\\SALES.Utilities.csproj",
+        "projectName": "SALES.Utilities",
+        "projectPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Utilities\\SALES.Utilities.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\net\\SalesSystemBackASPNETCore\\SALES.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
